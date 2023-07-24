@@ -39,3 +39,15 @@ Parameters:
 Returns:
 - `dict`: A dictionary representing the tree-like structure of the files and directories, with the file lengths as values.
 
+## Exemple:
+
+```json
+{
+  "Mushoku Tensei II - Isekai Ittara Honki Dasu [TV-2] [2023] [WEBRip] [1080p] [RUS + JAP]": {
+    "Mushoku Tensei II - 00 (WEBRip 1920x1080 x264 AAC Rus + Jap).mkv": 1076851686,
+    "Mushoku Tensei II - 01 (WEBRip 1920x1080 x264 AAC Rus + Jap).mkv": 1076777825,
+    "Mushoku Tensei II - 02 (WEBRip 1920x1080 x264 AAC Rus + Jap).mkv": 1303506293,
+    "Mushoku Tensei II - 03 (WEBRip 1920x1080 x264 AAC Rus + Jap).mkv": 1029535452
+  }
+}
+```
